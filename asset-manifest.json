@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Contador-React-VNW/static/css/main.d14f9836.css",
+    "main.js": "/Contador-React-VNW/static/js/main.b1ca8df6.js",
+    "index.html": "/Contador-React-VNW/index.html",
+    "main.d14f9836.css.map": "/Contador-React-VNW/static/css/main.d14f9836.css.map",
+    "main.b1ca8df6.js.map": "/Contador-React-VNW/static/js/main.b1ca8df6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d14f9836.css",
+    "static/js/main.b1ca8df6.js"
+  ]
+}
